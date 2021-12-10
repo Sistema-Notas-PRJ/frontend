@@ -1,6 +1,6 @@
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
-import font from '../../assets/fonts/Aquire.otf'
+import font from '../../assets/fonts/Roboto-Medium.ttf'
 import { GiHamburgerMenu } from 'react-icons/gi'
 
 export const Nav = styled.nav`
