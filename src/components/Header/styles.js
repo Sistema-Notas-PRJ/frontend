@@ -9,7 +9,7 @@ export const Nav = styled.nav`
     display: flex;
     justify-content: center;
     font-weight: normal;
-    font-family: 'Aquire-Light';
+    font-family: 'Roboto';
 
 `;
 
@@ -29,10 +29,10 @@ export const NavLink = styled(Link)`
     }
     
     @font-face {
-        font-family: 'Aquire';
+        font-family: 'Roboto';
         src: url(${font}) format('opentype');
     }
-    font-family: 'Aquire';
+    font-family: 'Roboto';
 `;
 
 export const NavIcon = styled.div`
